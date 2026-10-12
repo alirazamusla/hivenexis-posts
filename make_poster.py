@@ -170,6 +170,9 @@ def render(spec, out):
         info = pg.evaluate(FIT)
         pg.screenshot(path=str(out))
         b.close()
+    # Instagram accepts JPEG only, so always write a .jpg copy next to the .png
+    from PIL import Image
+    Image.open(out).convert("RGB").save(Path(out).with_suffix(".jpg"), quality=92)
     return info
 
 
