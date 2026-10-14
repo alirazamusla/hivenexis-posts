@@ -19,3 +19,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-14 | shopify | AI Agents Can Buy From You | 684479968090827_122213901380946123
 2026-10-14 | shopify | AI Agents Can Buy From You | instagram 17978821776131611
 2026-10-14 | shopify | AI Agents Can Buy From You | linkedin text post
+2026-10-14 | seo | Google Warns on AI Content | 684479968090827_122213965304946123
+2026-10-14 | seo | Google Warns on AI Content | instagram 18196990396381660
+2026-10-14 | seo | Google Warns on AI Content | linkedin text post
