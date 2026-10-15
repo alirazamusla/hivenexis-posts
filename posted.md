@@ -25,3 +25,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-15 | shopify | AI Shoppers See Your Discounts | 684479968090827_122214058352946123
 2026-10-15 | shopify | AI Shoppers See Your Discounts | instagram 18113170808133552
 2026-10-15 | shopify | AI Shoppers See Your Discounts | linkedin text post
+2026-10-15 | seo | AI Now Answers Brand Searches | 684479968090827_122214122408946123
+2026-10-15 | seo | AI Now Answers Brand Searches | instagram 18144770839582847
+2026-10-15 | seo | AI Now Answers Brand Searches | linkedin text post
