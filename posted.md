@@ -31,3 +31,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-16 | shopify | Faster Checkout Fewer Lost Carts | 684479968090827_122214216410946123
 2026-10-16 | shopify | Faster Checkout Fewer Lost Carts | instagram 18465544153137939
 2026-10-16 | shopify | Faster Checkout Fewer Lost Carts | linkedin text post
+2026-10-16 | seo | More Links in AI Answers | 684479968090827_122214291050946123
+2026-10-16 | seo | More Links in AI Answers | instagram 18152481364542193
+2026-10-16 | seo | More Links in AI Answers | linkedin text post
