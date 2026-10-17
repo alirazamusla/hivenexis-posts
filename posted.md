@@ -34,3 +34,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-16 | seo | More Links in AI Answers | 684479968090827_122214291050946123
 2026-10-16 | seo | More Links in AI Answers | instagram 18152481364542193
 2026-10-16 | seo | More Links in AI Answers | linkedin text post
+2026-10-17 | shopify | Stop Guessing Test Discounts | 684479968090827_122214392390946123
+2026-10-17 | shopify | Stop Guessing Test Discounts | instagram 18107192585094641
+2026-10-17 | shopify | Stop Guessing Test Discounts | linkedin text post
