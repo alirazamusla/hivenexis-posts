@@ -37,3 +37,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-17 | shopify | Stop Guessing Test Discounts | 684479968090827_122214392390946123
 2026-10-17 | shopify | Stop Guessing Test Discounts | instagram 18107192585094641
 2026-10-17 | shopify | Stop Guessing Test Discounts | linkedin text post
+2026-10-17 | seo | Are You Blocking AI Crawlers? | 684479968090827_122214449186946123
+2026-10-17 | seo | Are You Blocking AI Crawlers? | instagram 18495614485102734
+2026-10-17 | seo | Are You Blocking AI Crawlers? | linkedin text post
