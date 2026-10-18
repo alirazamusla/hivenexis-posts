@@ -40,3 +40,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-17 | seo | Are You Blocking AI Crawlers? | 684479968090827_122214449186946123
 2026-10-17 | seo | Are You Blocking AI Crawlers? | instagram 18495614485102734
 2026-10-17 | seo | Are You Blocking AI Crawlers? | linkedin text post
+2026-10-18 | shopify | AI Designs It. Does It Sell? | 684479968090827_122214543890946123
+2026-10-18 | shopify | AI Designs It. Does It Sell? | instagram 18047192693835259
+2026-10-18 | shopify | AI Designs It. Does It Sell? | linkedin text post
