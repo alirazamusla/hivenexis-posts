@@ -46,3 +46,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-18 | seo | Official Sites Go First in AI | 684479968090827_122214601856946123
 2026-10-18 | seo | Official Sites Go First in AI | instagram 18111132914589683
 2026-10-18 | seo | Official Sites Go First in AI | linkedin text post
+2026-10-19 | shopify | Recover Carts Automatically | 684479968090827_122214693146946123
+2026-10-19 | shopify | Recover Carts Automatically | instagram 18118545986069537
+2026-10-19 | shopify | Recover Carts Automatically | linkedin text post
