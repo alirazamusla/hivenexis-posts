@@ -52,3 +52,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-19 | seo | Videos Show Up in AI Mode | 684479968090827_122214750104946123
 2026-10-19 | seo | Videos Show Up in AI Mode | instagram 18101155055455194
 2026-10-19 | seo | Videos Show Up in AI Mode | linkedin text post
+2026-10-20 | shopify | Sell Inside AI Chats | 684479968090827_122214831806946123
+2026-10-20 | shopify | Sell Inside AI Chats | instagram 18101129846383915
+2026-10-20 | shopify | Sell Inside AI Chats | linkedin text post
