@@ -61,3 +61,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-21 | shopify | Fix Checkout Before BFCM | 684479968090827_122214980930946123
 2026-10-21 | shopify | Fix Checkout Before BFCM | instagram 18119027986954945
 2026-10-21 | shopify | Fix Checkout Before BFCM | linkedin text post
+2026-10-21 | seo | See Where AI Cites Rivals | 684479968090827_122215044440946123
+2026-10-21 | seo | See Where AI Cites Rivals | instagram 17920341855241087
+2026-10-21 | seo | See Where AI Cites Rivals | linkedin text post
