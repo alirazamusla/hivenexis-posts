@@ -58,3 +58,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-20 | seo | Track Your ChatGPT Buyers | 684479968090827_122214894692946123
 2026-10-20 | seo | Track Your ChatGPT Buyers | instagram 18123915940882581
 2026-10-20 | seo | Track Your ChatGPT Buyers | linkedin text post
+2026-10-21 | shopify | Fix Checkout Before BFCM | 684479968090827_122214980930946123
+2026-10-21 | shopify | Fix Checkout Before BFCM | instagram 18119027986954945
+2026-10-21 | shopify | Fix Checkout Before BFCM | linkedin text post
