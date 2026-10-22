@@ -67,3 +67,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-22 | shopify | AI Shoppers Need Shop Pay | 684479968090827_122215122158946123
 2026-10-22 | shopify | AI Shoppers Need Shop Pay | instagram 18130328053886564
 2026-10-22 | shopify | AI Shoppers Need Shop Pay | linkedin text post
+2026-10-22 | seo | Is Your Site in ChatGPT Search? | 684479968090827_122215225040946123
+2026-10-22 | seo | Is Your Site in ChatGPT Search? | instagram 18112586252615872
+2026-10-22 | seo | Is Your Site in ChatGPT Search? | linkedin text post
