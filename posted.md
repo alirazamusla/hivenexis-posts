@@ -76,3 +76,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-23 | seo | Top on Google. Lost in AI? | 684479968090827_122215390094946123
 2026-10-23 | seo | Top on Google. Lost in AI? | instagram 17952812625272435
 2026-10-23 | seo | Top on Google. Lost in AI? | linkedin text post
+2026-10-24 | shopify | Shopify Spots What To Fix | 684479968090827_122215481354946123
+2026-10-24 | shopify | Shopify Spots What To Fix | instagram 18124263698314643
+2026-10-24 | shopify | Shopify Spots What To Fix | linkedin text post
