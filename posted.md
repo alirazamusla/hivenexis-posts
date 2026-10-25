@@ -85,3 +85,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-25 | shopify | One Store. Many Countries | 684479968090827_122215659296946123
 2026-10-25 | shopify | One Store. Many Countries | instagram 18604920145064720
 2026-10-25 | shopify | One Store. Many Countries | linkedin text post
+2026-10-25 | seo | AI Can't Guess What You Sell | 684479968090827_122215806872946123
+2026-10-25 | seo | AI Can't Guess What You Sell | instagram 18166835254489922
+2026-10-25 | seo | AI Can't Guess What You Sell | linkedin text post
