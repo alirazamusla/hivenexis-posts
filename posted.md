@@ -91,3 +91,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-26 | shopify | Clear Policies. More Orders | 684479968090827_122215901936946123
 2026-10-26 | shopify | Clear Policies. More Orders | instagram 18143461396716594
 2026-10-26 | shopify | Clear Policies. More Orders | linkedin text post
+2026-10-26 | seo | Be the Brand AI Recommends | 684479968090827_122215975670946123
+2026-10-26 | seo | Be the Brand AI Recommends | instagram 18385274089225323
+2026-10-26 | seo | Be the Brand AI Recommends | linkedin text post
