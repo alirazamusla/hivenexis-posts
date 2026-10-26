@@ -88,3 +88,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-25 | seo | AI Can't Guess What You Sell | 684479968090827_122215806872946123
 2026-10-25 | seo | AI Can't Guess What You Sell | instagram 18166835254489922
 2026-10-25 | seo | AI Can't Guess What You Sell | linkedin text post
+2026-10-26 | shopify | Clear Policies. More Orders | 684479968090827_122215901936946123
+2026-10-26 | shopify | Clear Policies. More Orders | instagram 18143461396716594
+2026-10-26 | shopify | Clear Policies. More Orders | linkedin text post
