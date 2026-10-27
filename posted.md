@@ -97,3 +97,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-27 | shopify | Ship 250 Orders In One Batch | 684479968090827_122216080430946123
 2026-10-27 | shopify | Ship 250 Orders In One Batch | instagram 18119002015971339
 2026-10-27 | shopify | Ship 250 Orders In One Batch | linkedin text post
+2026-10-27 | seo | Ads Are Coming to AI Mode | 684479968090827_122216173322946123
+2026-10-27 | seo | Ads Are Coming to AI Mode | instagram 18120828898951033
+2026-10-27 | seo | Ads Are Coming to AI Mode | linkedin text post
