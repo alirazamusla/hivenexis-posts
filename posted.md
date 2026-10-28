@@ -103,3 +103,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-28 | shopify | AI Agents Need Your Facts | 684479968090827_122216282708946123
 2026-10-28 | shopify | AI Agents Need Your Facts | instagram 17893587549614838
 2026-10-28 | shopify | AI Agents Need Your Facts | linkedin text post
+2026-10-28 | seo | Answer First. Explain After | 684479968090827_122216351378946123
+2026-10-28 | seo | Answer First. Explain After | instagram 18131738842805648
+2026-10-28 | seo | Answer First. Explain After | linkedin text post
