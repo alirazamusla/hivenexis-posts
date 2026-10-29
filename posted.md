@@ -109,3 +109,6 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-29 | shopify | Schedule Your BFCM Sale | 684479968090827_122216443148946123
 2026-10-29 | shopify | Schedule Your BFCM Sale | instagram 17893010673617614
 2026-10-29 | shopify | Schedule Your BFCM Sale | linkedin text post
+2026-10-29 | seo | AI Searches Are 3x Longer | 684479968090827_122216503742946123
+2026-10-29 | seo | AI Searches Are 3x Longer | instagram 18184834309430523
+2026-10-29 | seo | AI Searches Are 3x Longer | linkedin text post
