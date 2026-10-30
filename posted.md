@@ -112,3 +112,4 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-10-29 | seo | AI Searches Are 3x Longer | 684479968090827_122216503742946123
 2026-10-29 | seo | AI Searches Are 3x Longer | instagram 18184834309430523
 2026-10-29 | seo | AI Searches Are 3x Longer | linkedin text post
+2026-10-30 | shopify | Build Your List Before BFCM | linkedin text post
