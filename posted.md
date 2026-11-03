@@ -120,3 +120,4 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-11-01 | seo | Trust Wins In Google & AI | linkedin text post
 2026-11-02 | shopify | AI Shoppers Test Your Store | linkedin text post
 2026-11-02 | seo | FAQs That Get Quoted By AI | linkedin text post
+2026-11-03 | shopify | Put BFCM Ops On Autopilot | linkedin text post
