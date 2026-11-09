@@ -124,3 +124,4 @@ One line per published post: date (PKT) | category | headline | post id (Faceboo
 2026-11-04 | shopify | Shopify Grew 29% Did Your Store? | linkedin text post
 2026-11-06 | shopify | Put Your Ads On Autopilot | linkedin text post
 2026-11-08 | seo | ChatGPT Is 20% Of Google Now | linkedin text post
+2026-11-09 | shopify | AI Orders Are Up 3.3x | linkedin text post
